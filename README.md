@@ -1,5 +1,7 @@
 # Game Show with React
 
+this is the github [repo](https://github.com/CodeLikeAGirl29/oop-game-show-app) for the original
+
 ![screenshot](https://res.cloudinary.com/codelikeagirl29/image/upload/v1727693756/Vite-React-09-30-2024_05_54_AM_jlugea.png)
 
 ---
