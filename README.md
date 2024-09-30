@@ -1,6 +1,8 @@
 # Game Show with React
 
-this is the github [repo](https://github.com/CodeLikeAGirl29/oop-game-show-app) for the original
+> this is the github [repo](https://github.com/CodeLikeAGirl29/oop-game-show-app) for the original
+
+[![CodeFactor](https://www.codefactor.io/repository/github/codelikeagirl29/game-show-react/badge/main)](https://www.codefactor.io/repository/github/codelikeagirl29/game-show-react/overview/main)
 
 ![screenshot](https://res.cloudinary.com/codelikeagirl29/image/upload/v1727693756/Vite-React-09-30-2024_05_54_AM_jlugea.png)
 
